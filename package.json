@@ -1,0 +1,30 @@
+{
+  "name": "esGApe-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgehret/esGApe-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samgehret/esGApe-back-end/issues"
+  },
+  "homepage": "https://github.com/samgehret/esGApe-back-end#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jwt-simple": "^0.5.1",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.11",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
